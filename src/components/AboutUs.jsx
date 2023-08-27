@@ -3,7 +3,7 @@ import tuugo from "../member-pic/tuugo.png";
 import "../Styles/About_us.css";
 import Navbar from "./Navbar";
 
-function About_us() {
+function AboutUs() {
   // const defaultProps = {
   //   TuugoContent : [
   //     'JSX', 'React Props', 'React State',
@@ -44,7 +44,6 @@ function About_us() {
   
   return (
     <div className="ab-cons">
-      <Navbar />
       <div className="team-cons" >
         <div className="team-mem-con" >
           <img src={tuugo} alt="mem-pic" />
@@ -71,4 +70,4 @@ function About_us() {
   );
 }
 
-export default About_us;
+export default AboutUs;
