@@ -1,0 +1,32 @@
+.team-con {
+    height: 350px;
+    width: 100%;
+    margin-top: 113px;
+}
+
+.team-header {
+    font-size: 64px;
+}
+
+.team-head {
+    height: 90px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.team-content {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+p {
+    height: 300px;
+    width: 500px;
+}
