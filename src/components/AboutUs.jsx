@@ -1,47 +1,8 @@
 import React, { Component } from "react";
 import tuugo from "../member-pic/tuugo.png";
 import "../Styles/About_us.css";
-import Navbar from "./Navbar";
 
-function AboutUs() {
-  // const defaultProps = {
-  //   TuugoContent : [
-  //     'JSX', 'React Props', 'React State',
-  //     'React Lifecycle Methods', 'React Event Handlers',
-  //     'React Router', 'React Hooks', 'Readux',
-  //     'React Context'
-  //   ],
-  //   BatjinContent : [],
-  //   KhatnaaContent : [],
-  //   SugarContent : []
-  // }
-  // const constructor(props) {
-  //   super(props);
-    
-  //   // Set initial state
-  //   this.state = { msg: 'React Course', content: '' }
-    
-  //   // Binding this keyword
-  //   this.handleClick = this.handleClick.bind(this);
-  // }
-
-  // renderContent() {
-  //   return (
-  //     <ul>
-  //       {this.props.courseContent.map(content => (
-  //         <li key={content}>{content}</li>
-  //       ))}
-  //     </ul>
-  //   );
-  // }
-  
-  // const handleClick() {
-  //   this.setState({
-  //     msg: 'Course Content',
-  //     content: this.renderContent()
-  //   });
-  // }
-  
+function AboutUs() {  
   return (
     <div className="ab-cons">
       <div className="team-cons" >

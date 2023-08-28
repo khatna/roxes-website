@@ -44,5 +44,5 @@ img {
 .team-mem-con:active {
     width: 400px;
     height: 400px;
-    transition: .7s all;
+    /* transition: .7s all; */
 }

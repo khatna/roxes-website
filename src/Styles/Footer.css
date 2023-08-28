@@ -1,0 +1,9 @@
+.footer-cons {
+height: 288px;
+width: 100%;
+  flex-direction: row;
+  background-color: rgb(66, 64, 64);
+  color: white;
+  justify-content: space-around;
+  align-items: center;
+}
