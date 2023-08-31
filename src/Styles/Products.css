@@ -1,14 +1,14 @@
-.team-con {
-    height: 350px;
+.product-con {
+    height: 550px;
     width: 100%;
     margin-top: 113px;
 }
 
-.team-header {
+.product-header {
     font-size: 64px;
 }
 
-.team-head-con {
+.product-head-con {
     height: 90px;
     width: 100%;
     display: flex;
@@ -18,7 +18,7 @@
     margin-bottom: 30px;
 }
 
-.team-content {
+.product-content {
     margin-top: 30px;
     display: flex;
     flex-direction: row;
@@ -29,4 +29,18 @@
 p {
     height: 300px;
     width: 500px;
+}
+
+.jolo-img-con {
+    position: relative;
+}
+
+.jolop-phne-img {
+    transform: rotate(1035deg);
+}
+
+.joloo-mob-app-logo {
+    position: absolute;
+    top: 0;
+    right: -80px;
 }

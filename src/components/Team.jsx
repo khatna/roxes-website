@@ -4,7 +4,7 @@ import "../Styles/Team.css";
 function Team() {
   return (
     <div className="team-con">
-      <div className="team-head">
+      <div className="team-head-con">
         <h2 className="team-header">About Us</h2>
       </div>
       <div className="team-content">
